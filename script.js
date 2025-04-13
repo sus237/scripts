@@ -28,3 +28,4 @@ function copyInfiniteYieldText() {
   navigator.clipboard.writeText("loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()");
   showToast();
 }
+// hi
